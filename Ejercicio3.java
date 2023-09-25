@@ -30,5 +30,9 @@ public class Ejercicio3 {
         System.out.println(Nombre);
         System.out.println(Nombre2);
 
+        for (char c : Nombre) {
+            System.out.println(c);
+        }
+
     }
 }

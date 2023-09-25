@@ -14,6 +14,8 @@ public class Ejercicio5 {
         System.out.println(n4);
         System.out.println(n5);
 
-
+        for(int c=1;c<=4;c++){
+            System.out.println(" ");
+        }
     }
 }
