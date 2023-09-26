@@ -13,7 +13,7 @@ public class Ejercicio21 {
         System.out.println("");
         System.out.print("Ingrese la cantidad de BitCoins: ");
         bitcoins=sc.nextDouble();
-        System.out.println("La conversion de $ " + bitcoins + " pesos a euros, segun el tipo de cambio " + cambio + "  es: " + (bitcoins * cambio) + " dolares");
+        System.out.println("La conversion de $ " + bitcoins + " bitcoins a dolares, segun el tipo de cambio " + cambio + "  es: " + (bitcoins * cambio) + " dolares");
 
         System.out.println("");
 
